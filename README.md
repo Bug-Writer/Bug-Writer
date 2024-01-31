@@ -1,5 +1,5 @@
 ## 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans+Narrow&size=44&duration=2000&pause=1500&color=4F8FFA&center=true&vCenter=true&random=false&width=1200&height=80&lines=In+case+I+don't+see+you%2C+good+afternoon%2C+good+evening%2C+and+good+night!%E2%9C%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=PT+Sans+Narrow&size=44&duration=2000&pause=1500&color=4F8FFA&center=true&vCenter=true&random=false&width=1200&height=80&lines=In+case+I+don't+see+you%2C+good+afternoon%2C+good+evening%2C+and+good+night!%E2%9C%8B)](https://github.com/Bug-Writer)
 ##
 
 <br/>
